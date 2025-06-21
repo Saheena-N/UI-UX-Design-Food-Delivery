@@ -20,7 +20,6 @@ This repository contains the UI/UX design for a **Food Delivery Website**, creat
 
 ## 📄 Downloadable Files
 
-- 📎 [Food Delivery website.pdf](Food%20Delivery%20website.pdf)
 - 🖼️ [Food Delivery website.png](Food%20Delivery%20website.png)
 
 ---
